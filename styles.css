@@ -29,9 +29,9 @@ img{
     max-height: 37.5em;
     padding: 1.25em;
     background-color: hsl(0, 0%, 100%);
-    border: .125em solid;
-    border-right: .625em solid;
-    border-bottom: .625em solid;
+    border: thin solid;
+    border-right: .55em solid;
+    border-bottom: .55em solid;
     border-radius: 1.25em;
 }
 .figtree-text {
